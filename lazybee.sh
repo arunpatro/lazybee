@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 # Enter the script code as the first argument 
 # and number of pages to download as the second argument
 # example: `sh lazybee.sh 1496 96`
